@@ -1,6 +1,6 @@
 ### Hi, I'm Rika 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rika97&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rika97&layout=compact&theme=tokyonight)
 
 <!--
 **rika97/rika97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
